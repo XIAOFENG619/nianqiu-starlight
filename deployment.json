@@ -1,13 +1,15 @@
 {
-  "app.js": "6867c1532d8245bda0cc20f7c894ac21a90e099f905d489b528ddbdd64f59572",
+  "app.js": "2e91f4f736195d2d5396211f86053f637ac2ee713bcc08ec6ff32edaff9e5e6c",
   "assets/chopper.webp": "5b9b58fd71c6c9368c3231b4c06e72081a2c3d4fc5fbf4cb419ddb7fba568d69",
   "assets/flag.webp": "599b941aeeecbc193cc55777942fded3ffc879f8dcd035dc4094b63f4e0ea70f",
+  "assets/flame-fruit.webp": "5ffdedce77577045e50a0cf7cfca2fced3be2743e78912f51bd3efe82dfc98b8",
   "assets/frame-1.webp": "2593a244d82da3223fb04e6d3d888884870fcc178cee600a31cfcec2ba0b4598",
   "assets/frame-2.webp": "2fce5825bfb8acd67815a20c1bba36962ea53ad935ccf24006b6b6ce5c3d377b",
   "assets/frame-3.webp": "64be9ab34f31d64c42c282444615944f4ee5f5a83a5ffef8bbfbaa69f17bea4a",
   "assets/frame-4.webp": "76df9cf66a417369080f7cc532a95e06ee4d913d704f3f849492896f9d94bca0",
   "assets/frame-5.webp": "d25da01a289dc29b8245c27264a6796c1f33786fe1ae69d75b3d354a710b540b",
   "assets/frame-6.webp": "6a543a9af274f6bb7bf98b1b4c03c0b9c604b78146dee5fb7417df5c6654a23f",
+  "assets/frost-fruit.webp": "ca818e005cacb9b384a6f1f64f8e0915a3c3b0fe7f94660a9bd52bb4ece23f7a",
   "assets/fruit.webp": "5dcc58c379a882b1bb7daf5185b5d982ec214033bb1014b6fac4ed656b5450f8",
   "assets/hand/LICENSE": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8",
   "assets/hand/SOURCES.txt": "0ae693551775bc902fdae49581f6d558cd8605f11f77662dab2cede07d397aeb",
@@ -30,11 +32,12 @@
   "assets/straw-hat.webp": "0c5625e09f8e599416d312c84c0d2fb2eb62565fafd00361c3970b2e35746d22",
   "crew.css": "2828153a3947e601afb5d01a8b67719302ac5758be8c442fa40beeca16af8b62",
   "crew.js": "c180fe79783798584fa20c18ac4890cf64c0c824128e1600e6591526d1cec2c7",
+  "elements.js": "7acd2a0887be4e37c0a1fa310c911dbdf779ee0267c9799a5519b97337e58405",
   "hands.js": "e5d7f156aca1455f5652b7b4f6e240c485a3c6fd31b852b585e2885553d136f3",
-  "index.html": "f05a3e511a4b01e8093125972da510f12bb42bd2e49884c242de51324378098e",
-  "keepsake.js": "a667da42e14a8d79b4c1346c6d66dd846eba655c2ad9863d8c97a85cdb51d985",
+  "index.html": "9ebaa505676ed58cfb18700ad155eb8ef7fbe81c577746701526d5832492c077",
+  "keepsake.js": "c57791e88db478cf260fc9fcfddebc402d2f42436c42aaacd7b31168c7ac4be8",
   "rubber.css": "ee7238c6f4857eef23cb488ea6fc4c26145c7df260d494b538c5d08339c76664",
   "rubber.js": "2ec9dfe3d0af3aace360241a7da487e0c20415de8d1625f6886d17de3fcb68a5",
-  "style.css": "b0e8b7f9e7f164902ec3cd09ad7980683219f567feea89eaa8b01da9d730a14c",
-  "world.js": "5da86d423e7a7b3284c1bacb7b0ecca4b8de7a46ac43affba0f8382862dd69cd"
+  "style.css": "36300ad5996219fdebe46d31b8163c4caad82fac83695cef9ca29a32e329fafe",
+  "world.js": "fa5b319fe4f9708d7c91900573811d1c90ac0d223ece06e9139e65df9e619a41"
 }
